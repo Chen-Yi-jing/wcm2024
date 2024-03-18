@@ -14,3 +14,8 @@ def serve_static(filename):
 
 # Route to serve other HTML files from the root directory
 @app.route('/<path:filename>')
+def serve_html(filename):
+    return send_from_directory('.', filename)
+
+if __name__ == '__main__':
+    app.run(debug=True)
