@@ -1,0 +1,12 @@
+import fitz  # install using: pip install fitz PyMuPDF
+
+with fitz.open("2023_Programming for Absolute Beginners.pdf") as doc:
+    text = ""
+    for page in doc:
+        text += page.get_text()
+
+# 將文字存儲到文件中
+with open("2023_Programming for Absolute Beginners.txt", "w", encoding="utf-8") as file:
+    file.write(text)
+
+print("Text has been saved to 'progit.txt'")
