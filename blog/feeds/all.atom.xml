@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-19T12:03:51+08:00</updated><entry><title>WCM 分組專案</title><link href="./wcm-w12-project.html" rel="alternate"></link><published>2024-05-06T00:00:00+08:00</published><updated>2024-05-06T07:43:40+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-06:./wcm-w12-project.html</id><content type="html">&lt;p&gt;五專網際內容管理課程第十二週專案&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-19T13:08:21+08:00</updated><entry><title>WCM 分組專案</title><link href="./wcm-w12-project.html" rel="alternate"></link><published>2024-05-06T00:00:00+08:00</published><updated>2024-05-06T07:43:40+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-06:./wcm-w12-project.html</id><content type="html">&lt;p&gt;五專網際內容管理課程第十二週專案&lt;/p&gt;
 </content><category term="Project"></category><category term="Angry bird"></category><category term="w12"></category></entry><entry><title>WCM 分組專案</title><link href="./wcm-w10-project.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-04-29T07:23:38+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-18:./wcm-w10-project.html</id><summary type="html">&lt;p&gt;網際內容管理課程分組專案 - 網頁與 Brython 程式應用&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網際內容管理課程分組專案 - 網頁與 Brython 程式應用&lt;/p&gt;
 
@@ -48,7 +48,311 @@
 51233141: &lt;a href="https://github.com/51233141/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233141.github.io/wcm2024"&gt;網站&lt;/a&gt;&lt;br&gt;
 51233142: &lt;a href="https://github.com/51233142/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233142.github.io/wcm2024"&gt;網站&lt;/a&gt;&lt;br&gt;
 51233143: &lt;a href="https://github.com/51233143/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233143.github.io/wcm2024"&gt;網站&lt;/a&gt;&lt;br&gt;
-51233144: &lt;a href="https://github.com/51233144/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233144.github.io/wcm2024"&gt;網站&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</content><category term="Project"></category><category term="Brython"></category><category term="w10"></category></entry><entry><title>WCM 五專第五週課程內容</title><link href="./wcm-5j-w5.html" rel="alternate"></link><published>2024-03-18T00:00:00+08:00</published><updated>2024-06-19T11:59:06+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-18:./wcm-5j-w5.html</id><summary type="html">&lt;p&gt;第五周將利用與ChatGPT 的對話整理與精密機械科有關的問題詢答紀錄&lt;/p&gt;
+51233144: &lt;a href="https://github.com/51233144/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233144.github.io/wcm2024"&gt;網站&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</content><category term="Project"></category><category term="Brython"></category><category term="w10"></category></entry><entry><title>WCM 五專第八週課程內容</title><link href="./wcm-5j-w8.html" rel="alternate"></link><published>2024-04-08T11:00:00+08:00</published><updated>2024-06-19T13:08:21+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-08:./wcm-5j-w8.html</id><summary type="html">&lt;p&gt;五專 WCM 第八週課程, 建議學員長期維護個人的履歷網站, 並註冊領英帳號.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;五專 WCM 第八週課程, 建議學員長期維護個人的履歷網站, 並註冊領英帳號.&lt;/p&gt;
+
+
+&lt;h1&gt;領英&lt;/h1&gt;
+&lt;p&gt;有關&lt;a href="https://zh.wikipedia.org/wiki/%E9%A0%98%E8%8B%B1"&gt;領英&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/signup?_l=zh-tw"&gt;註冊領英帳號&lt;/a&gt; - 請直接以 Gmail 登入, 並設定身分為學生.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.google.com/search?q=Do+you+actually+need+a+website+in+2024"&gt;Do you actually need a website?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecycu/cd2024/discussions/5"&gt;人格特質的飬成？&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Pull Requests&lt;/h1&gt;
+&lt;p&gt;以 &lt;a href="https://github.com/51233138/wcm2024"&gt;https://github.com/51233138/wcm2024&lt;/a&gt; 為例, scrum-1 登入 Github 後, fork 51233138 帳號下的  wcm2024 倉儲後, 設法改版後, 利用 Pull Requests 的流程要求 51233138 將改版資料&lt;a href="https://github.com/51233138/wcm2024/pull/1"&gt;拉回合併&lt;/a&gt;.&lt;/p&gt;
+&lt;h1&gt;網際內容管理課程回顧&lt;/h1&gt;
+&lt;p&gt;學員簡報與自評 - 請製作一個帶有說明字幕的期中報告影片, 放入個人的 wcm2024 影片, 以便在 w9 期中考週進行簡報與自評．&lt;/p&gt;
+&lt;p&gt;申請 Github 帳號: 目的是希望針對網站內容改版的每一個版本都能有效取得&lt;/p&gt;
+&lt;p&gt;申請 Replit 帳號: 可以在網頁瀏覽器或手機 App 修改網站內容&lt;/p&gt;
+&lt;p&gt;學習 Brython 程式: 可以直接在網頁上執行與產品設計有關的數值運算&lt;/p&gt;
+&lt;h1&gt;Angry Bird&lt;/h1&gt;
+&lt;p&gt;第十週開始是否可以將下列程式改採 Brython 編寫?&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecycu/angry-birds-python"&gt;any-bird-python&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecycu/Gaming-in-Python/tree/master/Angry_Birds"&gt;Angry Birds&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecycu/ab"&gt;ab&lt;/a&gt;, &lt;a href="https://mde.tw/ab"&gt;執行 ab&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;參考: &lt;a href="https://github.com/mdecycu/webgame"&gt;https://github.com/mdecycu/webgame&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;針對以上課程內容, 請利用以下留言系統進行討論:&lt;/p&gt;
+&lt;div id="disqus_thread"&gt;&lt;/div&gt;
+&lt;script&gt;
+/**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-mde-tw-eng.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="五專"></category><category term="Brython"></category><category term="w8"></category></entry><entry><title>WCM 五專第七週課程內容</title><link href="./wcm-5j-w7.html" rel="alternate"></link><published>2024-04-01T00:00:00+08:00</published><updated>2024-06-19T13:08:00+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-01:./wcm-5j-w7.html</id><summary type="html">&lt;p&gt;五專 WCM 第七週課程, 開始說明如何在頁面配置 Brython 環境, 並將 Brython 程式配置在個人 Github 帳號下的 Gist.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;五專 WCM 第七週課程, 開始說明如何在頁面配置 Brython 環境, 並將 Brython 程式配置在個人 Github 帳號下的 Gist.&lt;/p&gt;
+
+
+&lt;h1&gt;練習利用程式建立單字查詢網頁&lt;/h1&gt;
+&lt;p&gt;wcm2024 5j w7 利用 Python 建立 Javascript 電子書的單字查詢超文件&lt;/p&gt;
+&lt;iframe width="1120" height="630" src="https://www.youtube.com/embed/dJB6unDgngA?si=vWHr08lU6LbVJU4u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;利用 &lt;a href="https://mde.tw/wcm2024/downloads/2.txt"&gt;2.txt&lt;/a&gt; 與 &lt;a href="https://mde.tw/wcm2024/downloads/1.txt"&gt;1.txt&lt;/a&gt; Python 程式, 從下列電子書建立英文單字查詢網頁:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://link.springer.com/book/10.1007/978-1-4842-8751-4"&gt;2023 Programming for Absolute Beginners - Using the JavaScript Programming Language&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mde.tw/wcm2024/downloads/words_2023_Programming%20for%20Absolute%20Beginners.html"&gt;單字查詢網頁&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Brython 程式&lt;/h1&gt;
+&lt;p&gt;首先, 對 ChatGPT 提問: Brython 是甚麼程式語言? 該如何使用?&lt;/p&gt;
+&lt;p&gt;回答:&lt;/p&gt;
+&lt;p&gt;Brython 是一種在瀏覽器中運行的 Python 解譯器。它允許您在網頁上使用 Python 來編寫 Web-based 前端程式，而無需安裝任何套件或外部解譯器。&lt;/p&gt;
+&lt;p&gt;要使用 Brython，您可以按照以下步驟進行：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在您的網頁中引入 Brython 的 JavaScript 程式。就可以透過 CDN 或將文件下載到網頁中。&lt;/li&gt;
+&lt;li&gt;在 HTML 文件中，使用 &lt;code&gt;&amp;lt;script type="text/python"&amp;gt;&lt;/code&gt; 標籤來編寫 Python 程式碼。&lt;/li&gt;
+&lt;li&gt;當網頁加載時，Brython 會自動解譯並執行這些 Python 程式碼，並將結果呈現在網頁上。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如此就可以在瀏覽器中使用 Python 編寫動態網頁，而無需使用 JavaScript。這對於喜歡 Python 語法的開發者來說是一個很好的選擇。&lt;/p&gt;
+&lt;p&gt;再問: 可以舉一個簡單 Brython 程式範例, 從 1 累加到 10, 然後在網頁中以 html 列出運算結果&lt;/p&gt;
+&lt;p&gt;回答:&lt;/p&gt;
+&lt;pre class="brush: html"&gt;
+&lt;!-- 導入 Brython 程式庫 --&gt;
+&lt;script src="./../cmsimde/static/brython.js"&gt;&lt;/script&gt;
+&lt;script src="./../cmsimde/static/brython_stdlib.js"&gt;&lt;/script&gt;
+&lt;!-- 啟動 Brython --&gt;
+&lt;script&gt;
+window.onload=function(){
+brython();
+}
+&lt;/script&gt;
+&lt;h1&gt;累加結果：&lt;/h1&gt;
+&lt;!-- 顯示結果標註 --&gt;
+&lt;ul id="result"&gt;&lt;/ul&gt;
+
+&lt;!-- 在 &lt;script type="text/python"&gt; 標籤中編寫 Python 代碼 --&gt;
+&lt;script type="text/python"&gt;
+from browser import document
+result_list = document.getElementById("result")
+# sum 初始值設為 0
+sum = 0
+init = 1
+upto = 10
+# 利用 for 重複迴圈與變數加法進行累加
+for i in range(init, upto+1):
+    sum = sum + i
+    # skip the first one
+    if i !=1:
+        result_list.innerHTML += "&lt;li&gt;{} + {} = {}&lt;/li&gt;".format(sum-i, i, sum)
+&lt;/script&gt;
+&lt;/pre&gt;
+&lt;!-- 導入 Brython 程式庫 --&gt;
+&lt;script src="./../cmsimde/static/brython.js"&gt;&lt;/script&gt;
+&lt;script src="./../cmsimde/static/brython_stdlib.js"&gt;&lt;/script&gt;
+&lt;!-- 啟動 Brython --&gt;
+&lt;script&gt;
+window.onload=function(){
+brython();
+}
+&lt;/script&gt;
+&lt;h1&gt;累加結果：&lt;/h1&gt;
+&lt;!-- 顯示結果標註 --&gt;
+&lt;ul id="result"&gt;&lt;/ul&gt;
+
+&lt;!-- 在 &lt;script type="text/python"&gt; 標籤中編寫 Python 代碼 --&gt;
+&lt;script type="text/python"&gt;
+from browser import document
+result_list = document.getElementById("result")
+# sum 初始值設為 0
+sum = 0
+init = 1
+upto = 10
+# 利用 for 重複迴圈與變數加法進行累加
+for i in range(init, upto+1):
+    sum = sum + i
+    # skip the first one
+    if i !=1:
+        result_list.innerHTML += "&lt;li&gt;{} + {} = {}&lt;/li&gt;".format(sum-i, i, sum)
+&lt;/script&gt;
+
+&lt;p&gt;請根據上面的 Brython 範例, 寫出能夠從 https://mde.tw/cd2024/content/About.html  取出 anchor 字串為 "2021_odoo_reading.html" 的 href 資料&lt;/p&gt;
+&lt;p&gt;網頁中特定 anchor 的 href 資料：
+ &lt;span id="result2"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- 在 &lt;script type="text/python"&gt; 標籤中編寫 Python 代碼 --&gt;
+&lt;script type="text/python"&gt;
+from browser import document
+# 從網站讀取超文件資料
+html_content = open("https://mde.tw/cd2024/content/About.html").read()
+# 列出檢查
+#print(html_content)
+# 將 HTML 內容轉換為 DOM 物件
+dom = document.createElement('html')
+dom.innerHTML = html_content
+result_list = document.getElementById("result2")
+
+# 查找所有的 anchor 標籤
+anchors = dom.querySelectorAll('a')
+# 列出檢查
+#print(anchors)
+# 遍歷每個 anchor 標籤
+for anchor in anchors:
+    # 檢查 anchor 文字是否為特定值
+    if anchor.text.strip() == "2021_odoo_reading.html":
+        # 在網頁上顯示 href 資料
+        result_list.innerHTML += "&lt;li&gt;{}&lt;/li&gt;".format(anchor.getAttribute('href')) 
+&lt;/script&gt;
+
+&lt;p&gt;以下為 Brython 由電腦執行猜數字遊戲:&lt;/p&gt;
+&lt;p&gt;wcm2024 5j w7 intro brython number guessing&lt;/p&gt;
+&lt;iframe width="1120" height="630" src="https://www.youtube.com/embed/UJXBDkeHNII?si=m7a4MgSn93KyDXNJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://mde.tw/wcm2024/content/Brython.html?src=https://gist.githubusercontent.com/mdecycu/8ba6fa28317bc7a784d8350e7bc33580/raw/cb3b9b3e455c54381482d2f98f153442eff93ec4/auto_guessing_game.py"&gt;自動猜數字遊戲&lt;/a&gt; Brython 程式碼:&lt;/p&gt;
+&lt;pre class="brush: python"&gt;
+# 程式自動猜數字遊戲
+# 從 browser 導入 document, html 與 alert 模組
+from browser import document, html, alert
+# 導入 random 模組
+import random
+
+# 宣告一個變數, 名稱為 "id4", 與超文件中 id 為 "brython_div1" 的物件進行對應
+id4 = document["brython_div1"]
+# 宣告一個變數, 名稱為 "執行次數", 起始對應為 100
+執行次數 = 100
+# 宣告 "總猜測次數" 變數, 起始對應為 0
+總猜測次數 = 0
+# range() 是一個能夠建立一系列數字的函式
+for i in range(執行次數):
+    # "&lt;=" 是 Brython 特有符號, 用來將超文字指向左邊對應的變數在網頁超文件標註中的位置
+    id4 &lt;= "第" + str(i+1) + "次玩:" + html.BR()
+    下限 = 1
+    上限 = 100
+    # 利用能夠產生整數亂數的函式, 建立標準答案變數對應整數
+    標準答案 = random.randint(下限, 上限)
+    # pc 所猜的數字也是由亂數函式產生
+    pc猜的數字 = random.randint(下限, 上限)
+    #print(標準答案, pc猜的數字)
+    #integer int()
+    #string str()
+    #float float()
+    #你猜的數字 = int(input("請輸入您所猜的整數:"))
+    猜測次數 = 1
+    while 標準答案 != pc猜的數字:
+        if 標準答案 &lt; pc猜的數字:
+            #print("太大了，再猜一次 :)加油")
+            # 因此已經確定"pc猜的數字"不是答案, 因此 - 1
+            id4 &lt;= "電腦猜的數字:" + str(pc猜的數字) + " 太大了!" + html.BR()
+            上限 = pc猜的數字 - 1
+        else:
+            #print("太小了，再猜一次 :)加油")
+            # 因此已經確定"pc猜的數字"不是答案, 因此 + 1
+            id4 &lt;= "電腦猜的數字:" + str(pc猜的數字) + " 太小了!" + html.BR()
+            下限 = pc猜的數字 + 1
+        #pc猜的數字 = int(input("請輸入您所猜的整數:"))
+        pc猜的數字 = random.randint(下限, 上限)
+        猜測次數 += 1
+    #print("猜對了！總共猜了", 猜測次數, "次")
+    id4 &lt;= "電腦猜對了, 答案為: " + str(標準答案) + ", 總共猜了 "+ str(猜測次數) + "次" + html.BR()
+    總猜測次數 += 猜測次數
+平均猜測次數 = int(總猜測次數/執行次數)
+#print("平均次數", 平均猜測次數)
+id4 &lt;= "平均次數: " + str(平均猜測次數)
+&lt;/pre&gt;
+
+&lt;h1&gt;Gist&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists"&gt;https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;請根據上列有關 Github Gist 的簡介說明, 將 Gist 相關的參考資料整理到各自的網誌.&lt;/p&gt;
+&lt;p&gt;針對以上課程內容, 請利用以下留言系統進行討論:&lt;/p&gt;
+&lt;div id="disqus_thread"&gt;&lt;/div&gt;
+&lt;script&gt;
+/**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-mde-tw-eng.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="五專"></category><category term="Brython"></category><category term="w7"></category></entry><entry><title>WCM 五專第六週課程內容</title><link href="./wcm-5j-w6.html" rel="alternate"></link><published>2024-03-25T00:00:00+08:00</published><updated>2024-06-19T13:07:14+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-25:./wcm-5j-w6.html</id><summary type="html">&lt;p&gt;五專 WCM 第六週課程, 閱讀 Git 相關原文書, 需要認識多少英文單字. 另外以 iframe 嵌入先前的教學影片, 並摘要各影片內容.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;五專 WCM 第六週課程, 閱讀 Git 相關原文書, 需要認識多少英文單字. 另外以 iframe 嵌入先前的教學影片, 並摘要各影片內容.&lt;/p&gt;
+
+
+&lt;h1&gt;Pro Git 電子書&lt;/h1&gt;
+&lt;p&gt;假如要較為深入了解 Git, 就 &lt;a href="https://git-scm.com/book/en/v2"&gt;https://git-scm.com/book/en/v2&lt;/a&gt; 這本電子書來說, 需要認識多少英文單字?&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gist.githubusercontent.com/mdecycu/44e92707c50b22d2e676da8262f592be/raw/edbd164ea99d2247853ae200fc145a90c934f7d8/check_dict_from_cdict_net.py"&gt;check_dict_from_cdict_net.py&lt;/a&gt; (建立英文單字查詢 html 檔案)&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gist.githubusercontent.com/mdecycu/44e92707c50b22d2e676da8262f592be/raw/b37ad6acfd6000d91aaec806d9558994f70e1891/get_txt_from_pdf.py"&gt;get_txt_from_pdf.py&lt;/a&gt; (從 pdf 檔案中取出文字內容)&lt;/p&gt;
+&lt;p&gt;為了能夠執行 get_txt_from_pdf.py, Replit Python3 程式庫需要分別安裝 fitz 以及 pymupdf 等模組.&lt;/p&gt;
+&lt;p&gt;先安裝 fitz 模組: pip install fitz&lt;/p&gt;
+&lt;p&gt;再安裝 pymupdf 模組: pip install pymupdf &lt;/p&gt;
+&lt;p&gt;目前 get_txt_from_pdf.py 會從 pdf 檔案擷取文字內容並直接列印在 console, 請利用 ChatGPt, 要求將擷取的文字內容存為檔案.&lt;/p&gt;
+&lt;p&gt;請利用上述兩個程式, 以 html 格式整理出上列電子書的英文單字查詢涵義與應用資料.&lt;/p&gt;
+&lt;p&gt;各學員完成上述 Python 程式操作後, 請將過程與結果整理在自己的 wcm2024 課程網站與網誌中.&lt;/p&gt;
+&lt;p&gt;另外, 因為 &lt;a href="https://git-scm.com/book/en/v2"&gt;https://git-scm.com/book/en/v2&lt;/a&gt; 可以直接從 git-scm.com 網站下載, 一旦上傳到 downloads 目錄取出英文單字查詢超文件之後, 可以不將這個 18 MB 的檔案放在倉儲內, 根據&lt;a href="https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-single-file"&gt;這裡&lt;/a&gt;的說明, 可得知該如何操作.&lt;/p&gt;
+&lt;p&gt;操作結果:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mde.tw/wcm2024/downloads/words_progit.html"&gt;https://mde.tw/wcm2024/downloads/words_progit.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mde.tw/wcm2024/downloads/words_w6_git_add_except.html"&gt;https://mde.tw/wcm2024/downloads/words_w6_git_add_except.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;wcm2024 5j w6 progit vocabulary check up 教學影片:&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gqP5Mbg4w5M?si=yD_mh1hg9az2_dvV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;Gist 的應用&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://ithelp.ithome.com.tw/articles/10206233"&gt;Gist 應用 上&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://ithelp.ithome.com.tw/articles/10206277"&gt;Gist 應用 下&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;教學影片&lt;/h1&gt;
+&lt;p&gt;五專網際內容管理:&lt;/p&gt;
+&lt;p&gt;wcm2024 5j 使用 chatgpt 簡介 1.mp4&lt;/p&gt;
+&lt;iframe width="1120" height="630" src="https://www.youtube.com/embed/gbk84hYUHDo?si=UnKel_0fHkvFaCdz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;wcm2024 5j 建立 wcm2024倉儲與網站 2.mp4&lt;/p&gt;
+&lt;iframe width="1120" height="630" src="https://www.youtube.com/embed/ssVt1v2QPqA?si=QsAcAB8rxNjs5IK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;wcm2024 5j 如何更改靜態網站標題 3.mp4&lt;/p&gt;
+&lt;iframe width="1120" height="630" src="https://www.youtube.com/embed/JJPzMNKYpK8?si=MxTbAE2B0-bPZngd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;wcm2024 5j w3 1 如何下載可攜程式套件 4.mp4&lt;/p&gt;
+&lt;iframe width="1120" height="630" src="https://www.youtube.com/embed/tQG3PlwHkGQ?si=LgXwi_L5SZxPLAjG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;wcm2024 5j w3 2 下載 sharex 並進行設定 5.mp4&lt;/p&gt;
+&lt;iframe width="1120" height="630" src="https://www.youtube.com/embed/Y7HmSwv8eY0?si=NxVz-xEFFG2Xd1PT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;wcm2024 5j w3 3 利用 ShareX 截圖放入個人網站 6.mp4&lt;/p&gt;
+&lt;iframe width="1120" height="630" src="https://www.youtube.com/embed/aZzfxdfAo0o?si=6RvvvYHA34NenqUi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;wcm2024 5j w4 1 建立個人最短網址網站 7.mp4&lt;/p&gt;
+&lt;iframe width="1120" height="630" src="https://www.youtube.com/embed/aOJF92GOA6w?si=0jpAB2HVklPjtrfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;wcm2024 5j w4 2 如何在 Replit 執行靜態網站檢視 8.mp4&lt;/p&gt;
+&lt;iframe width="1120" height="630" src="https://www.youtube.com/embed/CWhP4JQTzyE?si=Zi3u7xb4iLP77yXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;wcm2024 5j w4 3 如何在倉儲中建立 main2 與 static python 檔案 9.mp4&lt;/p&gt;
+&lt;iframe width="1120" height="630" src="https://www.youtube.com/embed/ptTG5lOO0B0?si=CTZ4wrq8jZfYvaLl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;wcm2024 5j w5 與 ChatGPT 詢答的內容整理至網誌 10&lt;/p&gt;
+&lt;iframe width="1120" height="630" src="https://www.youtube.com/embed/6yJTGypDlkc?si=CWXeQ2u2MkOhpjlF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;針對以上課程內容, 請利用以下留言系統進行討論:&lt;/p&gt;
+&lt;div id="disqus_thread"&gt;&lt;/div&gt;
+&lt;script&gt;
+/**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-mde-tw-eng.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="五專"></category><category term="Video"></category><category term="w6"></category></entry><entry><title>WCM 五專第五週課程內容</title><link href="./wcm-5j-w5.html" rel="alternate"></link><published>2024-03-18T00:00:00+08:00</published><updated>2024-06-19T11:59:06+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-18:./wcm-5j-w5.html</id><summary type="html">&lt;p&gt;第五周將利用與ChatGPT 的對話整理與精密機械科有關的問題詢答紀錄&lt;/p&gt;
 &lt;!-- PELICAN_END_SUMMARY--&gt;
 
 &lt;h1&gt;對 ChatGPT 提問&lt;/h1&gt;
