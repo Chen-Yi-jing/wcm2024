@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-19T10:55:41+08:00</updated><entry><title>WCM 分組專案</title><link href="./wcm-w12-project.html" rel="alternate"></link><published>2024-05-06T00:00:00+08:00</published><updated>2024-05-06T07:43:40+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-06:./wcm-w12-project.html</id><content type="html">&lt;p&gt;五專網際內容管理課程第十二週專案&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-19T12:03:51+08:00</updated><entry><title>WCM 分組專案</title><link href="./wcm-w12-project.html" rel="alternate"></link><published>2024-05-06T00:00:00+08:00</published><updated>2024-05-06T07:43:40+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-06:./wcm-w12-project.html</id><content type="html">&lt;p&gt;五專網際內容管理課程第十二週專案&lt;/p&gt;
 </content><category term="Project"></category><category term="Angry bird"></category><category term="w12"></category></entry><entry><title>WCM 分組專案</title><link href="./wcm-w10-project.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-04-29T07:23:38+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-18:./wcm-w10-project.html</id><summary type="html">&lt;p&gt;網際內容管理課程分組專案 - 網頁與 Brython 程式應用&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網際內容管理課程分組專案 - 網頁與 Brython 程式應用&lt;/p&gt;
 
@@ -48,7 +48,7 @@
 51233141: &lt;a href="https://github.com/51233141/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233141.github.io/wcm2024"&gt;網站&lt;/a&gt;&lt;br&gt;
 51233142: &lt;a href="https://github.com/51233142/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233142.github.io/wcm2024"&gt;網站&lt;/a&gt;&lt;br&gt;
 51233143: &lt;a href="https://github.com/51233143/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233143.github.io/wcm2024"&gt;網站&lt;/a&gt;&lt;br&gt;
-51233144: &lt;a href="https://github.com/51233144/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233144.github.io/wcm2024"&gt;網站&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</content><category term="Project"></category><category term="Brython"></category><category term="w10"></category></entry><entry><title>WCM 五專第五週課程內容</title><link href="./wcm-5j-w5.html" rel="alternate"></link><published>2024-03-18T00:00:00+08:00</published><updated>2024-03-25T08:36:36+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-18:./wcm-5j-w5.html</id><summary type="html">&lt;p&gt;第五周將利用與ChatGPT 的對話整理與精密機械科有關的問題詢答紀錄&lt;/p&gt;
+51233144: &lt;a href="https://github.com/51233144/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233144.github.io/wcm2024"&gt;網站&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</content><category term="Project"></category><category term="Brython"></category><category term="w10"></category></entry><entry><title>WCM 五專第五週課程內容</title><link href="./wcm-5j-w5.html" rel="alternate"></link><published>2024-03-18T00:00:00+08:00</published><updated>2024-06-19T11:59:06+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-18:./wcm-5j-w5.html</id><summary type="html">&lt;p&gt;第五周將利用與ChatGPT 的對話整理與精密機械科有關的問題詢答紀錄&lt;/p&gt;
 &lt;!-- PELICAN_END_SUMMARY--&gt;
 
 &lt;h1&gt;對 ChatGPT 提問&lt;/h1&gt;
@@ -67,17 +67,29 @@
 &lt;li&gt;以目前 AI 的發展趨勢來看, 會對學校教育有哪些重大影響?
 個性化學習和教學、教學輔助工具、遠程教育和線上學習、數據驅動的決策和技能培養和職業準備。
 請利用網路搜尋上列問題的可能回應資料, 篩選認為有用的資料放入個人的課程網站中, 並回報到課程倉儲的&lt;a href="https://github.com/mdecycu/wcm2024/discussions/1"&gt;討論區&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="五專"></category><category term="Chatgpt"></category><category term="w5"></category></entry><entry><title>WCM 五專第一周課程內容</title><link href="./Starting-5J-WCM-course.html" rel="alternate"></link><published>2024-02-19T11:00:00+08:00</published><updated>2024-06-19T10:55:41+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-19:./Starting-5J-WCM-course.html</id><summary type="html">&lt;p&gt;以下包含五專精密機械科網際內容管理課程第一週的上課內容, 課程目標首先是讓學員了解如何利用 cmsimde_site 建立網站. 接著則是讓學員了解如何利用 Replit 維護網站內容.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;以下包含五專精密機械科網際內容管理課程第一週的上課內容, 課程目標首先是讓學員了解如何利用 cmsimde_site 建立網站. 接著則是讓學員了解如何利用 Replit 維護網站內容.&lt;/p&gt;
+&lt;/ul&gt;</content><category term="五專"></category><category term="Chatgpt"></category><category term="w5"></category></entry><entry><title>WCM 五專第四週課程內容</title><link href="./wcm-5j-w4.html" rel="alternate"></link><published>2024-03-11T00:00:00+08:00</published><updated>2024-06-19T12:02:19+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-11:./wcm-5j-w4.html</id><summary type="html">&lt;p&gt;以下為五專精密機械科網際內容管理課程第四週上課內容, 包括回顧計算機概論, 以及如何在網頁推送至 Github 倉儲之前檢查所編輯的網頁內容.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;以下為五專精密機械科網際內容管理課程第四週上課內容, 包括回顧計算機概論, 以及如何在網頁推送至 Github 倉儲之前檢查所編輯的網頁內容.&lt;/p&gt;
 
 
-&lt;h1&gt;五專 WCM 第一週課程內容&lt;/h1&gt;
+&lt;h1&gt;建立個人最短網址網站&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://chen-yi-jing.github.io/content/index.html"&gt;最短網址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://pages.github.com/"&gt;Github Pages&lt;/a&gt;服務可以讓 Github 帳號的擁有者, 使用"帳號.github.io"作為倉儲名稱, Github 會自動將此網站設定 &lt;a href="https://pages.github.com/"&gt;Github Pages&lt;/a&gt;, 假如此倉儲內部帶有超文件, 則此倉儲對應的網址將會是 https://帳號.github.io &lt;/p&gt;
+&lt;p&gt;說明[如何建立短網址的 Github Pages 網站]教學影片&lt;/p&gt;
+&lt;p&gt;下載 &lt;a href="https://mde.tw/wcm2024/downloads/main2.txt"&gt;main2.txt&lt;/a&gt; 與 &lt;a href="https://mde.tw/wcm2024/downloads/static.txt"&gt;static.txt&lt;/a&gt;, 其中包含 main2.py 與 static.py, 只要在 Shell 執行 python3 main2.py 就可以執行倉儲內的靜態網站檢視. 另一方面, 若要取消先前執行 python3 main2.py, 只需要在 Shell 頁面按下 ctrl + c, c 代表 cancle 也就是取消. 然後若要執行動態網站，可以在 Shell 執行 python3 main.py 或者使用 Replit 的 Run 按鍵. &lt;/p&gt;</content><category term="五專"></category><category term="計概"></category><category term="分組"></category><category term="w4"></category></entry><entry><title>WCM 五專第三週課程內容</title><link href="./wcm-5j-w3.html" rel="alternate"></link><published>2024-03-04T00:00:00+08:00</published><updated>2024-06-19T12:03:51+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-04:./wcm-5j-w3.html</id><summary type="html">&lt;p&gt;以下為五專精密機械科網際內容管理課程第三週上課內容, 包括回顧計算機概論, 利用 Github Classroom 進行分組作業派送(名稱為 wcmj), 並且說明如何利用 Github Codespaces 維護個人與分組網站.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;以下為五專精密機械科網際內容管理課程第三週上課內容, 包括回顧計算機概論, 利用 Github Classroom 進行分組作業派送(名稱為 wcmj), 並且說明如何利用 Github Codespaces 維護個人與分組網站.&lt;/p&gt;
+
+
+&lt;h1&gt;配置可攜程式系統&lt;/h1&gt;
+&lt;p&gt;下載可攜程式環境: &lt;a href="http://229.cycu.org/portable_2024.7z"&gt;portable_2024.7z&lt;/a&gt; (需要密碼, 下載 540MB, 解開壓縮後約 1.8GB)到自己的隨身中.&lt;/p&gt;</content><category term="五專"></category><category term="計概"></category><category term="分組"></category><category term="w3"></category></entry><entry><title>WCM 五專第一週與第二週課程內容</title><link href="./Starting-5J-WCM-course.html" rel="alternate"></link><published>2024-02-19T00:00:00+08:00</published><updated>2024-06-19T11:54:12+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-19:./Starting-5J-WCM-course.html</id><summary type="html">&lt;p&gt;以下包含五專精密機械科網際內容管理課程第一週與第二週的上課內容, 課程目標首先是讓學員了解如何利用 cmsimde_site 建立網站. 接著則是讓學員了解如何利用 Replit 維護網站內容.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;以下包含五專精密機械科網際內容管理課程第一週與第二週的上課內容, 課程目標首先是讓學員了解如何利用 cmsimde_site 建立網站. 接著則是讓學員了解如何利用 Replit 維護網站內容.&lt;/p&gt;
+
+
+&lt;h1&gt;五專 WCM 第一週與第二週課程內容&lt;/h1&gt;
 &lt;p&gt;請學員申請 Github 帳號&lt;/p&gt;
-&lt;p&gt;Github 帳號登入依照規定需要兩段式認證(2FA, [two-factor Authentication]), 設定過程必須在手機安裝 Github Mobile, 若手機可連結至智慧手錶, 則可以將認證碼利用 [authy] App 將兩段式登入驗證碼傳至手錶.&lt;/p&gt;
 &lt;p&gt;請學員申請 Replit 帳號 - 建立使用可以收信的 Email 帳號作為 account, 自選密碼後登入 Replit&lt;/p&gt;
 &lt;p&gt;一旦在個人 Github 帳號下建立 wcm2024 倉儲後, 可以進入倉儲 Settings 中的 Pages, 將 Branch 分支的 main 分支設為網頁的 root (根目錄), 就可以將 wcm2024 轉為該倉儲的網站, 而其網站的連結將會是: https://帳號.github.io/wcm2024&lt;/p&gt;
 &lt;p&gt;請學員準備一個 USB 3.0 以上的隨身碟 32GB 或 64GB 都可以, 用來存放可攜程式系統,個人數位私鑰以及其他設定檔案.&lt;/p&gt;
-&lt;p&gt;一旦在 Github 建立 wcm2024, 而且已經登記 Replit 帳號, 就可以設法讓兩個帳號透過授權, 讓 Replit import wcm2024 倉儲, 啟動網頁編輯後進行改版, 並且轉為靜態網站內容之後, 將資料推回 Github, 就可以更新 Github Pages 上的 wcm2024 靜態網站內容.&lt;/p&gt;</content><category term="五專"></category><category term="Github"></category><category term="MS_online"></category><category term="w1"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-25T08:36:36+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;一旦在 Github 建立 wcm2024, 而且已經登記 Replit 帳號, 就可以設法讓兩個帳號透過授權, 讓 Replit import wcm2024 倉儲, 啟動網頁編輯後進行改版, 並且轉為靜態網站內容之後, 將資料推回 Github, 就可以更新 Github Pages 上的 wcm2024 靜態網站內容.&lt;/p&gt;</content><category term="五專"></category><category term="Github"></category><category term="MS_online"></category><category term="w1"></category><category term="w2"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-25T08:36:36+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
